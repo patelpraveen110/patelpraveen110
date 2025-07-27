@@ -1,15 +1,5 @@
-## Hello👋, My Name is Praveen
+## Hi👋, My Name is Praveen
 
-- 🔭 I’m currently working at citiustech in mumnbai
-- 🌱 I’m currently learning React and AWS
-- 📫 Contact me on my email patelpraveen110@gmail.com or mobile +91 7693986267
-
-
-<!--
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
-
+- 🔭 I’m currently working at Deloitte as a consultant in Hyderabad
+- 🌱 My current tech stack is Java, Spring, Microservices, Kafka and AWS
+- 📫 You can Contact me on my emailid patelpraveen110@gmail.com or mobile +91 7693986267
